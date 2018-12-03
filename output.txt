@@ -1,12 +1,12 @@
-292249 : &nbsp;<span class="info">BF<SUB>3</SUB> · C<SUB>2</SUB>H<SUB>5</SUB>NH<SUB>2</SUB></span></p></li><li><p>
+292249 : 75-23-0
 292250 : 
 292251 : 
 292252 : 
-292253 : &nbsp;<span class="info">C<SUB>15</SUB>H<SUB>11</SUB>Cl<SUB>2</SUB>N<SUB>3</SUB>O<SUB>4</SUB></span></p></li><li><p>
+292253 : 
 292254 : 
 292255 : 
 292256 : 
-292257 : &nbsp;<span class="info">HOCH<SUB>2</SUB>CH<SUB>2</SUB>N(CH<SUB>3</SUB>)<SUB>3</SUB>OH</span></p></li><li><p>
+292257 : 123-41-1
 292258 : 
 292259 : 
 292260 : 
@@ -14,7 +14,7 @@
 292262 : 
 292263 : 
 292264 : 
-292265 : &nbsp;<span class="info">C<SUB>6</SUB>H<SUB>5</SUB>NHC<SUB>6</SUB>H<SUB>4</SUB>NHC<SUB>6</SUB>H<SUB>5</SUB></span></p></li><li><p>
+292265 : 74-31-7
 292266 : 
 292267 : 
 292268 : 

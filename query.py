@@ -28,11 +28,14 @@ with open(filepath) as fp:
         #print(html)
 
         #s = "Linear Formula: BF3 · C2H5NH2 Molecular Weight"
-        result = re.search('Linear\sFormula:(.*)Molecular\sWeight', htmlString)
-        formula = ""
+        #result = re.search('Linear\sFormula:(.*)Molecular\sWeight', htmlString)
+        result = re.search('CAS Number:(.*)interface=CAS', htmlString)
+        casNo = ""
         if (result and result.group(1)):
-            formula = result.group(1)
-        print (line.strip() + " : " + formula)
+            result = re.search('term=(.*)&', result.group(1))
+            if result and result.group(1):
+                casNo = result.group(1)
+        print (line.strip() + " : " + casNo)
         time.sleep(2)
 
         line = fp.readline()
